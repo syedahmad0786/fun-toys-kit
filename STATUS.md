@@ -1,5 +1,12 @@
 # fun-toys-kit — STATUS
 
+## 2026-08-14 — toys consuming the factory
+
+All 18 live toys now ship unique marks, favicons, and motion primitives generated here. Hub cabinet uses the same marks. Palettes stay per-toy. Kit is still not a website.
+
+Left off: factory + consumers are live.
+Next: regenerate marks only when a toy logo needs a redraw.
+
 ## 2026-08-13 — factory live on GitHub
 
 Repo: https://github.com/syedahmad0786/fun-toys-kit. Unique SVG marks generated into all 18 toys + hub (favicon.svg/ico, apple-touch, og.png, logo.svg). Hub cabinet is live with 3D shelf cards.
