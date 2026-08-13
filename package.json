@@ -1,0 +1,20 @@
+{
+  "name": "fun-toys-kit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "author": "Ahmad Bukhari",
+  "description": "Logo/favicon factory and motion/3D primitives for the Fun Toys cabinet. Each toy keeps its own art direction.",
+  "scripts": {
+    "generate": "node scripts/generate.mjs",
+    "generate:dry": "node scripts/generate.mjs --dry"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedahmad0786/fun-toys-kit.git"
+  }
+}
